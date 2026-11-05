@@ -3,3 +3,4 @@ MODE=training
 TAX_RATE=200
 STATUS=stable
 FEATURE_A=enabled
+временное значение
